@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    text-decoration: bold;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: darkcyan;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
